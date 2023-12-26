@@ -1,0 +1,207 @@
+
+.star1 {
+  width: 1200px;
+  height: 1200px;
+  display: inline-block;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background-color: rgb(208, 161, 75);
+}
+
+.star2 {
+  width: 1100px;
+  height: 1100px;
+  display: inline-block;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background: #1e3930;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+.star3 {
+  width: 1000px;
+  height: 1000px;
+  display: inline-block;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background: rgb(211, 229, 225);
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+.star4 {
+  width: 900px;
+  height: 900px;
+  display: inline-block;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background: rgb(0, 99, 65);
+  position: relative;
+  top: 50px;
+  left: 50px;
+}.star5 {
+  width: 800px;
+  height: 800px;
+  display: inline-block;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background:  rgb(208, 161, 75);
+  position: relative;
+  top: 50px;
+  left: 50px;
+}.star6 {
+  width: 700px;
+  height: 700px;
+  display: inline-block;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background:  #1e3930;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}.star7 {
+  width: 600px;
+  height: 600px;
+  display: inline-block;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background: rgb(211, 229, 225);
+  position: relative;
+  top: 50px;
+  left: 50px;
+}.star8 {
+  width: 500px;
+  height: 500px;
+  display: inline-block;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background:  rgb(0, 99, 65);
+  position: relative;
+  top: 50px;
+  left: 50px;
+}.star9 {
+  width: 400px;
+  height: 400px;
+  display: inline-block;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background: rgb(208, 161, 75);
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+.star-wrapper {
+  z-index: 1;
+  padding-left: 40%;
+  position: relative;
+}
+.star-reward-1 {
+
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  margin-top: 400px;
+  margin-right: 50%;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background-color: rgb(208, 161, 75);
+}
+.star-reward-2 {
+
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin-top: 250px;
+  margin-right: 60%;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background-color: rgb(208, 161, 75);
+}
+.star-reward-3 {
+
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  margin-top: 500px;
+  margin-right: 70%;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background-color: rgb(208, 161, 75);
+}
+.star-reward-4 {
+
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 50%;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background-color: rgb(208, 161, 75);
+}
+.star-reward-5 {
+
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin-top: 250px;
+  margin-left:60%;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background-color: rgb(208, 161, 75);
+}
+.star-reward-6 {
+
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  margin-top: 500px;
+  margin-left: 70%;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  background-color: rgb(208, 161, 75);
+}
+@media  (max-width:1000px) {
+  .star1{
+    width: 800px;
+    height: 800px;
+    
+  top: 40px;
+  left: 40px;
+  }
+  .star2{
+    width: 720px;
+    height: 720px;
+    
+  top: 40px;
+  left: 40px;
+  }
+  .star3{
+    width: 640px;
+    height: 640px;
+    top: 40px;
+    left: 40px;
+  }
+  .star4{
+    width: 560px;
+    height: 560px;
+    top: 40px;
+    left: 40px;
+  }
+  .star5{
+    width: 480px;
+    height: 480px;
+    top: 40px;
+    left: 40px;
+  }
+  .star6{
+    width: 400px;
+    height: 400px;
+    top: 40px;
+    left: 40px;
+  }
+  .star7{
+    width: 320px;
+    height: 320px;
+    top: 40px;
+    left: 40px;
+  }
+  .star8{
+    width: 240px;
+    height: 240px;
+    top: 40px;
+    left: 40px;
+  }
+  .star9{
+    width: 160px;
+    height: 160px;
+    top: 40px;
+    left: 40px;
+  }
+}
